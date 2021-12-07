@@ -26,7 +26,7 @@ moodle/
 └── ...                                
 </pre>
 
-💡 Use this plugin with a version above 3.8, it is recommended to use the plugin https://github.com/moodleuulm/moodle-local_boostnavigation/blob/master/README.md to add a navigation access to the page.
+💡 Use this plugin with a version above 3.8, it is recommended to use the plugin boostnavigation(https://github.com/moodleuulm/moodle-local_boostnavigation/blob/master/README.md) to add a navigation access to the page.
 
 ## 📝 Licença
 Licença [MIT](./LICENSE).

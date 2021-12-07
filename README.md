@@ -13,7 +13,7 @@
 <pre>
 https://github.com/Weslley95/additionalpages.git
 </pre>
-2. Leave the h5p folder and the renderers file inside your theme folder
+2. Allocate the folder, in the local moodle folder
 
 <pre>
 moodle/
